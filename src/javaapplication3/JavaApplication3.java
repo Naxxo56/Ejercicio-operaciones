@@ -5,7 +5,8 @@ import java.util.Scanner;
 /**
  * @author Usuario DAM 1
  */
-public class JavaApplication3 {
+public class JavaApplication3{
+    //cambios cucu bu tras 
 
     /**
      * @param args the command line arguments
